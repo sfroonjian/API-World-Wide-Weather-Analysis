@@ -1,5 +1,5 @@
 ### Problems this analysis is trying to solve:
-1. Is there a correlation between latitude and temperature, latitude and cloudiness, latitude and humidity, and latitude and wind speeds
+1. Is there a correlation between latitude and temperature, latitude and cloudiness, latitude and humidity, and latitude and wind speeds?
 1. Where on a map are the cities of the world that I am studying?
 1. What hotels exist within 5 km of the cities that currently have my ideal weather conditions?
 
